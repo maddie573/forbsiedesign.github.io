@@ -1,0 +1,139 @@
+body {
+    min-width: 870px;
+    text-align: center;
+    font-family: sans-serif;
+}
+header {
+    background-color: #52471b;
+    padding-top: 80px;
+}
+
+#honeycomb-background {
+    background-color: #f2cc10;
+    border-top-color: #87752d;
+    border-top-style: solid;
+    border-top-width: 5px;
+    margin-bottom: -16px;
+}
+header img {
+    margin-top: -50px;
+}
+
+header h1 {
+    color: #87752d;
+    font-size: .9em;
+    margin-top: -2px;
+    padding-bottom: 20px;
+}
+
+nav ul {
+    background-color: #87752d;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-color: #52471b;
+}
+
+nav ul li {
+    display: inline;
+}
+
+nav ul li a {
+    color: #f8ffb0;
+    text-decoration: none;
+    padding-top: 20px;
+    padding-right: 10px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+}
+
+/* CSS for main part of home page */
+main {
+    background-color: #f8ffb0;
+    margin-top: -16px;
+    padding-top: 70px;
+    padding-bottom: 144px;
+    height: 699px;
+}
+
+/* CSS for images in home page */
+main img {
+    max-width: 820px;
+    display: inline; 
+    position: relative;
+}
+
+#awareness {
+    position: relative;
+    right: -270px;
+    margin: 10px;
+    background-color: #87752d;
+    width: 201px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 5px 5px 5px 5px;
+    color: #f8ffb0;
+    
+
+}
+#teamwork {
+    position: relative;
+    right: -485px;
+    top: -332px;
+    margin: 5px;
+    background-color: #87752d;
+    width: 201px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 5px 5px 5px 5px;
+    color: #f8ffb0;
+    
+}
+#conservation {
+    position: relative;
+    top: -665px;
+    right: -690px;
+    margin: 10px;
+    background-color: #87752d;
+    width: 201px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 5px 5px 5px 5px;
+    color: #f8ffb0;
+    
+}
+#community {
+    position: relative;
+    top: -999px;
+    right: -905px;
+    margin: 5px;
+    background-color: #87752d;
+    width: 201px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 5px 5px 5px 5px;
+    color: #f8ffb0;
+    
+}
+blockquote {
+    color: #52471b;
+    font-size: 1.5em;
+    position: relative;
+    top: -1000px;
+    margin-top: 46px;
+  
+   
+}
+/* End of main css */
+
+footer {
+    background-color: #52471b;
+    border-top-color: #87752d;
+    border-top-style: solid;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    text-align: center;
+    margin-top: -16px;
+    color: #f2cc10;
+}
